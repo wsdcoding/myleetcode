@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="803280f1-cbeb-4364-8384-e3b911828c80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="068b06cd-b93c-408d-b075-bdc7136f3fc9" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="runMavenInBackground" value="false" />
+  </component>
+  <component name="ProjectId" id="1dA1LlA5zTID4QYSZeFPUZ838Mp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="803280f1-cbeb-4364-8384-e3b911828c80" name="Default Changelist" comment="" />
+      <created>1591853029643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591853029643</updated>
+      <workItem from="1591853032150" duration="1762000" />
+      <workItem from="1594880398528" duration="286000" />
+      <workItem from="1599421398129" duration="616000" />
+      <workItem from="1599449720871" duration="3210000" />
+      <workItem from="1599908744914" duration="731000" />
+    </task>
+    <task id="LOCAL-00001" summary="翻转二叉树">
+      <created>1591879891847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591879891847</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1599450356496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599450356496</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="翻转二叉树" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2534" y="161" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591853281467">
+      <screen x="1920" y="-140" width="1536" height="824" />
+    </state>
+    <state x="2534" y="161" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824/1920.-140.1536.824@1920.-140.1536.824" timestamp="1591853281467" />
+    <state x="380" y="0" key="CommitChangelistDialog2" timestamp="1599450355263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2300" y="-140" key="CommitChangelistDialog2/0.0.1536.824/1920.-140.1536.824@1920.-140.1536.824" timestamp="1591879890932" />
+    <state x="380" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599450355263" />
+    <state x="376" y="158" key="FileChooserDialogImpl" timestamp="1599459755174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2296" y="18" key="FileChooserDialogImpl/0.0.1536.824/1920.-140.1536.824@1920.-140.1536.824" timestamp="1591853098389" />
+    <state x="376" y="158" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599459755174" />
+    <state x="2269" y="15" key="IDE.errors.dialog" timestamp="1591880059069">
+      <screen x="1920" y="-140" width="1536" height="824" />
+    </state>
+    <state x="2269" y="15" key="IDE.errors.dialog/0.0.1536.824/1920.-140.1536.824@1920.-140.1536.824" timestamp="1591880059069" />
+    <state x="141" y="0" width="1232" height="715" key="SettingsEditor" timestamp="1599450668662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2061" y="-98" width="1232" height="715" key="SettingsEditor/0.0.1536.824/1920.-140.1536.824@1920.-140.1536.824" timestamp="1591880049314" />
+    <state x="141" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599450668662" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599450435733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2281" y="5" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.-140.1536.824@1920.-140.1536.824" timestamp="1591880076464" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599450435733" />
+    <state x="462" y="203" key="git4idea.merge.GitPullDialog" timestamp="1599912352843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1599912352843" />
+  </component>
+</project>
